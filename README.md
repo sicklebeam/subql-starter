@@ -1,2 +1,2 @@
-# subql-starter
+# SubQL Starter
 Following the SubQuery starter project
